@@ -9,7 +9,7 @@ This project used different tools to deliver the final information to [tornado-w
 
 ### Code 
 
-The scripts in this repo have the following purpose:
+The scripts in [this repo](https://github.com/Nerolation/mevboost.pics) have the following purpose:
 * parse_data_api.py - For parsing the Relay Data API.
 * enrich_data.py - For adding information (block number, fee_recipient, #txs) to the parsed blocks.
 * tornado_data_prep.py - For creating a table with mev-boosted blocks that contain Tornado Cash transactions.
